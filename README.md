@@ -1,5 +1,6 @@
 # galeria_2
 Este archivo es una galeria reponsive, que contiene 30 imagenes, un drawer, un boton flotante con diferente opciones
+![image](https://user-images.githubusercontent.com/110652225/208927805-dd6f6d23-797d-41ef-a967-7a9eb8512cc6.png)
 
 
 boton flotante:
