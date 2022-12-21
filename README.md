@@ -5,7 +5,7 @@ Este archivo es una galeria reponsive, que contiene 30 imagenes, un drawer, un b
 
 boton flotante:
 se utilizo libreria flutter_speed_dial: ^6.2.0, fue la que me sirvio para agregar una animacion y diferentes opciones al boton
-https://github.com/Sebas333231/galeria_2/issues/1#issue-1506321409
+![image](https://user-images.githubusercontent.com/110652225/208928180-1d21e535-2470-44e2-ac7b-ff264d0076f3.png)
 
 el drawer trae diferentes opciones o categorias sin funcion aun, el drawer tambien trae un perfil para agregar nombre, correo
 ![image](https://user-images.githubusercontent.com/110652225/208921510-cdc02dcf-e0ef-41b0-b686-6ebaec498999.png)
