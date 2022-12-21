@@ -7,3 +7,4 @@ se utilizo libreria flutter_speed_dial: ^6.2.0, fue la que me sirvio para agrega
 https://github.com/Sebas333231/galeria_2/issues/1#issue-1506321409
 
 el drawer trae diferentes opciones o categorias sin funcion aun, el drawer tambien trae un perfil para agregar nombre, correo
+https://github.com/Sebas333231/galeria_2/issues/2#issue-1506331328
